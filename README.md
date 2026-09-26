@@ -9,7 +9,7 @@ Most of my hands-on work lives in labs rather than repos, so what's here is the 
 **Repositories**
 
 - [Forensic-Scripts](https://github.com/abtinazbord/Forensic-Scripts) — live response collection and evidence integrity tooling for Linux
-- [CTF-Solutions](https://github.com/abtinazbord/CTF-Solutions) — writeups from Hack The Box challenges
+- [CTF-Writeups](https://github.com/abtinazbord/CTF-Solutions) — writeups from Hack The Box challenges
 
 **Working with**
 
